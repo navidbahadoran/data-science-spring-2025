@@ -1,4 +1,4 @@
-name: erdos_fall_2024
+name: erdos_spring_2025
 channels:
   - conda-forge
 dependencies:
