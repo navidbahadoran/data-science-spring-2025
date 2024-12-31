@@ -29,7 +29,7 @@ Press [y] to all of the prompts.  You will be downloading a lot of packages.
 
 Once this is done:
 
-    conda activate erdos_fall_2024
+    conda activate erdos_spring_2025
 
 To check everything is there:
 
