@@ -1,13 +1,13 @@
 # Erdős Institute Data Science Boot Camp
-## Fall 2024 Edition
+## Spring 2025 Edition
 
-This repository contains the materials for the Fall 2024 edition of the Erdős Institute's Data Science Boot Camp programming
+This repository contains the materials for the Spring 2025 edition of the Erdős Institute's Data Science Boot Camp programming
 
-[https://www.erdosinstitute.org/programs/fall-2024/data-science-boot-camp](https://www.erdosinstitute.org/programs/fall-2024/data-science-boot-camp) 
+[https://www.erdosinstitute.org/programs/spring-2025/data-science-boot-camp](https://www.erdosinstitute.org/programs/spring-2025/data-science-boot-camp) 
 
-## erdos_fall_2024 conda environment
+## erdos_spring_2025 conda environment
 
-You should set up an erdos_fall_2024 conda environment and run all of the notebooks with this environment.
+You should set up an erdos_spring_2025 conda environment and run all of the notebooks with this environment. Below are minimial instructions.  You can find more detailed instructions here: [https://docs.google.com/document/d/1UsmDLnQwGjTB7eLKoccQZvLq2uWJexFcNov_CzkN2Ng/edit?tab=t.0](https://docs.google.com/document/d/1UsmDLnQwGjTB7eLKoccQZvLq2uWJexFcNov_CzkN2Ng/edit?tab=t.0)
 
 Check to make sure you have conda by running the following in your command line interface:
 
@@ -41,7 +41,7 @@ If you ever need to add more packages to this environment please refer to the [c
 
 Finally open `computer_setup_day/find_secret_code` and run the only cell there.  It will give you a numerical output.  Put that output in the textbox at [https://www.erdosinstitute.org/ds-boot-camp-prep](https://www.erdosinstitute.org/ds-boot-camp-prep).  If you set up the conda env correctly it will tell you that you have it set up correctly!  Please do this because us figure out who still needs assistance setting up python/jupyter/conda.
 
-If you are using Visual Studio Code just select erdos_fall_2024 as the kernel when running the notebooks.
+If you are using Visual Studio Code just select erdos_spring_2025 as the kernel when running the notebooks.
 
 ## Data
 
