@@ -39,8 +39,6 @@ Should show all of the packages!
 
 If you ever need to add more packages to this environment please refer to the [conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#installing-packages).
 
-Finally open `computer_setup_day/find_secret_code` and run the only cell there.  It will give you a numerical output.  Put that output in the textbox at [https://www.erdosinstitute.org/ds-boot-camp-prep](https://www.erdosinstitute.org/ds-boot-camp-prep).  If you set up the conda env correctly it will tell you that you have it set up correctly!  Please do this because us figure out who still needs assistance setting up python/jupyter/conda.
-
 If you are using Visual Studio Code just select erdos_spring_2025 as the kernel when running the notebooks.
 
 ## Data
@@ -82,10 +80,3 @@ These folders contain jupyter notebooks that hold problems you can work on for p
 
 These folders contain notebooks which are similar to the lecture notebooks, but cover content we will not be able to fit into the live bootcamp.
 
-
--------------------------
-Copyright Info
-
-This repository was written for the 2024 Erdős Institute Data Science Boot Camp by Matthew Osborne, Ph. D., in 2023 and modified by Steven Gubkin in 2024.
-
-Any potential redistributors must seek and receive permission from Matthew Tyler Osborne and Steven Gubkin prior to redistribution. Redistribution of the material contained in this repository is conditional on acknowledgement of Matthew Tyler Osborne original authorship and sponsorship of the Erdős Institute. (see License.md)
