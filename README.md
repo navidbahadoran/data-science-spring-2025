@@ -1,11 +1,11 @@
-# Erdős Institute Data Science Boot Camp
+Data Science
 ## Spring 2025 Edition
 
 This repository contains the materials for the Spring 2025 edition of the Erdős Institute's Data Science Boot Camp programming
 
 [https://www.erdosinstitute.org/programs/spring-2025/data-science-boot-camp](https://www.erdosinstitute.org/programs/spring-2025/data-science-boot-camp) 
 
-## erdos_spring_2025 conda environment
+## conda environment
 
 You should set up an erdos_spring_2025 conda environment and run all of the notebooks with this environment. Below are minimial instructions.  You can find more detailed instructions here: [https://docs.google.com/document/d/1UsmDLnQwGjTB7eLKoccQZvLq2uWJexFcNov_CzkN2Ng/edit?tab=t.0](https://docs.google.com/document/d/1UsmDLnQwGjTB7eLKoccQZvLq2uWJexFcNov_CzkN2Ng/edit?tab=t.0)
 
