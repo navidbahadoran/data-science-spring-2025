@@ -1,11 +1,11 @@
-# Erdős Institute Data Science Boot Camp
+Data Science
 ## Spring 2025 Edition
 
 This repository contains the materials for the Spring 2025 edition of the Erdős Institute's Data Science Boot Camp programming
 
 [https://www.erdosinstitute.org/programs/spring-2025/data-science-boot-camp](https://www.erdosinstitute.org/programs/spring-2025/data-science-boot-camp) 
 
-## erdos_spring_2025 conda environment
+## conda environment
 
 You should set up an erdos_spring_2025 conda environment and run all of the notebooks with this environment. Below are minimial instructions.  You can find more detailed instructions here: [https://docs.google.com/document/d/1UsmDLnQwGjTB7eLKoccQZvLq2uWJexFcNov_CzkN2Ng/edit?tab=t.0](https://docs.google.com/document/d/1UsmDLnQwGjTB7eLKoccQZvLq2uWJexFcNov_CzkN2Ng/edit?tab=t.0)
 
@@ -38,8 +38,6 @@ To check everything is there:
 Should show all of the packages!
 
 If you ever need to add more packages to this environment please refer to the [conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-pkgs.html#installing-packages).
-
-Finally open `computer_setup_day/find_secret_code` and run the only cell there.  It will give you a numerical output.  Put that output in the textbox at [https://www.erdosinstitute.org/ds-boot-camp-prep](https://www.erdosinstitute.org/ds-boot-camp-prep).  If you set up the conda env correctly it will tell you that you have it set up correctly!  Please do this because us figure out who still needs assistance setting up python/jupyter/conda.
 
 If you are using Visual Studio Code just select erdos_spring_2025 as the kernel when running the notebooks.
 
@@ -82,10 +80,3 @@ These folders contain jupyter notebooks that hold problems you can work on for p
 
 These folders contain notebooks which are similar to the lecture notebooks, but cover content we will not be able to fit into the live bootcamp.
 
-
--------------------------
-Copyright Info
-
-This repository was written for the 2024 Erdős Institute Data Science Boot Camp by Matthew Osborne, Ph. D., in 2023 and modified by Steven Gubkin in 2024.
-
-Any potential redistributors must seek and receive permission from Matthew Tyler Osborne and Steven Gubkin prior to redistribution. Redistribution of the material contained in this repository is conditional on acknowledgement of Matthew Tyler Osborne original authorship and sponsorship of the Erdős Institute. (see License.md)
