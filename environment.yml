@@ -12,8 +12,9 @@ dependencies:
   - python = 3.12
   - scikit-learn >= 1.4
   - sqlalchemy
-  - xgboost >= 2.0.3
+  - xgboost = 2.1.4
   - pmdarima >= 2.0
+  - interpret
   - pip:
       - cinemagoer
       - lxml
